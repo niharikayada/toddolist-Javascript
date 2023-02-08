@@ -1,4 +1,4 @@
-# toddolist-Javascript
+# todolist-Javascript
 
 ![image](https://user-images.githubusercontent.com/43235593/217494068-0c093635-9067-4357-9f3e-8730e115d23f.png)
 
